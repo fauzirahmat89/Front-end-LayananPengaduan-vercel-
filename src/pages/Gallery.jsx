@@ -2,12 +2,12 @@ import React from 'react'
 import Case from '../components/Case'
 export default function Gallery() {
   const images = [
-    'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
-    'https://images.unsplash.com/photo-1567767292888-46f1e39b16c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
-    'https://images.unsplash.com/photo-1524049730815-7b587df05b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
-    'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
-    'https://images.unsplash.com/photo-1516557070067-44e44e4cdbc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
-    'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800',
+    'https://jabartoday.com/m/WhatsApp-Image-2020-08-05-at-15.28.19.jpeg',
+    'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/92/2024/10/08/Kepala-Desa-Cijengkol-Serap-Aspirasi-Warga-Lewat-Musdus-1001293141.jpg',
+    'https://asset-2.tstatic.net/wartakota/foto/bank/images/warga-desa-cijengkol-kecamatan-cilograng-kabupaten-lebak-banten-dapat-bantuan-rp-26-miliar.jpg',
+    'https://radarsukabumi.com/wp-content/uploads/2023/04/Marwan-Cijengkol.jpg',
+    'https://media.sukabumiupdate.com/media/2023/04/08/1680947632_643139b0819d0_u73oniLKPDbZTt61rC0D.webp',
+    'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2021/10/01/2870583318.jpg',
   ];
 
   return (
