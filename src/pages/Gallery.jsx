@@ -14,9 +14,9 @@ export default function Gallery() {
     <Case>
       <div className="bg-gray-100 py-12">
         <div className="w-full max-w-6xl mx-auto">
-          <h2 className="text-3xl font-bold text-blue-600 mb-8 text-center">Galeri Desa X</h2>
+          <h2 className="text-3xl font-bold text-blue-600 mb-8 text-center">Galeri Desa Cijengkol</h2>
           <p className="text-lg text-gray-700 mb-12 text-center">
-            Temukan keindahan Desa X melalui koleksi foto-foto berikut. Nikmati pemandangan alam yang memukau dan kehidupan masyarakat yang harmonis.
+            Temukan keindahan Desa Cijengkol melalui koleksi foto-foto berikut. Nikmati pemandangan alam yang memukau dan kehidupan masyarakat yang harmonis.
           </p>
 
           {/* Grid layout for gallery */}
